@@ -9,5 +9,7 @@
 
   下载后,点击dist中的index.html可直接使用
 	想复原项目,在根目录下运行npm install后运行npm run dev即可
+  在github中预览效果:https://gusuziyi.github.io/typhoon
+  
   
   技术栈：vue2 + vuex + vue-router + iview + webpack + async/await + canvas + less+ flex +echarts
