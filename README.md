@@ -8,7 +8,9 @@
   即字符点亮中国、台风预警系统和黑洞引力模拟器,然后用vue-router和vuex连接起来,就成了一个单页面程序。
 
   下载后,点击dist中的index.html可直接使用
-	想复原项目,在根目录下运行npm install后运行npm run dev即可
+  
+  想复原项目,在根目录下运行npm install后运行npm run dev即可
+  
   在github中预览效果:https://gusuziyi.github.io/typhoon
   
   
